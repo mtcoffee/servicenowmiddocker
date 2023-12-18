@@ -3,7 +3,7 @@
 A docker image to build a Linux MID Server for ServiceNow using the official Docker files provided by ServiceNow. 
 
 # Purpose
-This is mainly to serve as a CI/CD repository for getting the latest version. I'll update the Docker file as needed. Release at this time is Vancover
+This is mainly to serve as a CI/CD repository for getting the latest version. I'll update the Docker file as needed. Release at this time is Vancouver
 
 # To use
 
