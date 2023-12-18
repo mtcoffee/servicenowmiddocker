@@ -54,5 +54,5 @@ jobs:
             }
         env:
           OWNER: mtcoffee
-          PACKAGE_NAME: ${{ github.event.repository.name }}
+          PACKAGE_NAME: servicenowmiddocker
           PER_PAGE: 100
