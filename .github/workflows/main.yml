@@ -54,5 +54,5 @@ jobs:
             }
         env:
           OWNER: mtcoffee
-          PACKAGE_NAME: ${{ github.repository }}
+          PACKAGE_NAME: ${{ github.event.repository.name }}
           PER_PAGE: 100
