@@ -1,5 +1,5 @@
 # ################
-# VANCOUVER RELEASE MID SERVER
+# VANCOUVER RELEASE MID SERVER 
 # 1st Stage: Use openjdk 8 to verify signature w/ jarsigner
 # https://developers.redhat.com/articles/2022/09/16/updating-docker-hubs-openjdk-image#openjdk_and_java_se_updates
 # ################
