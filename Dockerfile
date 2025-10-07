@@ -2,7 +2,7 @@
 # 1st Stage:
 #     - Download the MID installation ZIP file, verify the digital signature and unzip the ZIP file to the base directory
 #     - Copy the required scripts and other files from the recipe asset folder to the base directory
-#     - Set the group's file permissions to match the owner's file permissions for the entire base directory
+#     - Set the group's file permissions to match the owner's file permissions for the entire base directory 
 # ########################################################################################################################
 
 FROM eclipse-temurin:8-jdk-alpine AS pre_installation
